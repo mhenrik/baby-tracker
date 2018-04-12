@@ -1,0 +1,3 @@
+$(function () {
+    babyController.addNewBaby();
+});
