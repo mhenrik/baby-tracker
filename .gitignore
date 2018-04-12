@@ -94,4 +94,6 @@ mvnw
 mvnw.cmd
 .mvn
 
+application.properties
+
 # End of https://www.gitignore.io/api/intellij+iml
